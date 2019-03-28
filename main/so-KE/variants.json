@@ -1,12 +1,13 @@
 {
   "main": {
-    "fo": {
+    "so-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
-        "language": "fo"
+        "language": "so",
+        "territory": "KE"
       },
       "localeDisplayNames": {
         "variants": {
@@ -66,7 +67,7 @@
           "LIPAW": "LIPAW",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
-          "MONOTON": "monotonísk",
+          "MONOTON": "MONOTON",
           "NDYUKA": "NDYUKA",
           "NEDIS": "NEDIS",
           "NEWFOUND": "NEWFOUND",
@@ -80,8 +81,8 @@
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
           "PETR1708": "PETR1708",
-          "PINYIN": "pinyin",
-          "POLYTON": "polytonísk",
+          "PINYIN": "PINYIN",
+          "POLYTON": "POLYTON",
           "POSIX": "POSIX",
           "PROVENC": "PROVENC",
           "PUTER": "PUTER",
@@ -108,7 +109,7 @@
           "VALENCIA": "VALENCIA",
           "VALLADER": "VALLADER",
           "VIVARAUP": "VIVARAUP",
-          "WADEGILE": "Wade-Giles",
+          "WADEGILE": "WADEGILE",
           "XSISTEMO": "XSISTEMO"
         }
       }
